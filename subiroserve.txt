@@ -1,1 +1,6 @@
+
+//simulando a api
 npx json-server@0.17.1 db.json --port 4000 --delay 1000
+
+//instalando o redux toolkit
+npm i --save react-redux @reduxjs/toolkit
